@@ -23,8 +23,8 @@ Enter a text query like **"a cute cat"** and retrieve the most relevant images f
 ## 📦 Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/clip-image-search.git
-cd clip-image-search
+git clone https://github.com/datageekrj/Flask-Image-Search-YouTube-Tutorial.git
+cd Flask-Image-Search-YouTube-Tutorial
 ````
 
 ### 2. Install Dependencies
