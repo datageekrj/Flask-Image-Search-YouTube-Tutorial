@@ -6,8 +6,9 @@ Enter a text query like **"a cute cat"** and retrieve the most relevant images f
 ---
 
 ## 🚀 Demo
-![Demo Screenshot](static/demo.png)  
-*(Add a screenshot of your web app here)*
+
+<img width="993" height="766" alt="image" src="https://github.com/user-attachments/assets/ddf5dfb3-5248-442b-8bb3-75952944b037" />
+
 
 ---
 
