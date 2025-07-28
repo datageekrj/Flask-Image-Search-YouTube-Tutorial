@@ -84,8 +84,8 @@ clip-image-search/
 
 ## 🎥 YouTube Tutorial
 
-I’ve created a **step-by-step video guide** on building this project:
-👉 **[Watch on YouTube]([https://youtube.com/yourvideo](https://youtu.be/38LsOFesigg))**
+I’ve created a **step-by-step video guide** on building this project: 👉 https://youtu.be/38LsOFesigg
+
 
 ---
 
