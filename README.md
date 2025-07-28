@@ -1,4 +1,3 @@
-````markdown
 # 🔍 AI Image Search App with CLIP + Flask
 
 An **AI-powered Image Search App** built with [OpenAI's CLIP model](https://github.com/openai/CLIP) and Flask.  
